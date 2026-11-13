@@ -14,6 +14,13 @@ An end-to-end comparative study and benchmarking project evaluating deep learnin
 | **SimpleRNN** | 65.71% | 64.96% | 0.6512 | 0.6648 | 0.6456 | 0.8237 | 6,449,539 |
 
 ---
+## 🔍 Model Performance Visualization (Confusion Matrices)
+
+Below is the side-by-side comparison of the confusion matrices for all four tuned architectures (`Dense NN`, `SimpleRNN`, `LSTM`, and `GRU`), displaying actual vs. predicted sentiment classes (`Negative`, `Neutral`, `Positive`):
+
+![Confusion Matrices Grid](confusion_matrix_grid.png)
+
+*(Note: Ensure you upload your saved `confusion_matrix_grid.png` image file directly to your GitHub repository so the image renders properly).*
 <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/535a9486-1bc9-424a-889d-0de17c658cf4" />
 
 ## 🏆 Best Performing Model Verdict
