@@ -14,6 +14,7 @@ An end-to-end comparative study and benchmarking project evaluating deep learnin
 | **SimpleRNN** | 65.71% | 64.96% | 0.6512 | 0.6648 | 0.6456 | 0.8237 | 6,449,539 |
 
 ---
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/535a9486-1bc9-424a-889d-0de17c658cf4" />
 
 ## 🏆 Best Performing Model Verdict
 
